@@ -1,0 +1,11 @@
+{
+    "python.venvPath":"/Users/bjliu/anaconda/envs",
+    "python.pythonPath":"/Users/bjliu/anaconda/envs/py3/bin/python3",
+    "python.venvFolders":[
+        "envs",
+        ".pyenv",
+        ".direnv"
+    ],
+    "code-runner.runInTerminal": true
+    //sudo pip3 install --trusted-host https://pypi.doubanio.com/simple/ requests
+}
